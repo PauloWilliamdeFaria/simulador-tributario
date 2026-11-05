@@ -47,8 +47,8 @@ Projeto educacional em **Python**, com programação orientada a objetos, para v
 ### 2. Obter o projeto
 
 ```bash
-git clone https://github.com/PauloWilliamdeFaria/curso-hashtag.git
-cd curso-hashtag
+git clone https://github.com/PauloWilliamdeFaria/simulador-tributario.git
+cd simulador-tributario
 ```
 
 > **Atenção:** os comandos a seguir pressupõem que `relatorio_fiscal.py` e `test_relatorio_fiscal.py` estejam na pasta atual. Se os arquivos estiverem em uma subpasta do repositório, entre nessa pasta antes de executá-los.
